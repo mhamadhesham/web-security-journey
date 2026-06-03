@@ -1,1 +1,1 @@
-# web-security-journey
+Documenting my path from beginner to Web Application Security professional.
